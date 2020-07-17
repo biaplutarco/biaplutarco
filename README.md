@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I'm Bia Plutarco and welcome to my GitHub! I like to write in Swift and now I'm exploring a bit more about architecture and how to write readme :shipit: 
 <!--
 **biaplutarco/biaplutarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
